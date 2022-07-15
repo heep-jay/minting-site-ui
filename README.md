@@ -13,7 +13,7 @@ Major features of the CMv2 are implemented & auto-detected. This includes:
 # Preview
 
 ![Desktop Preview](https://cdn.discordapp.com/attachments/946021913120079953/958463798602264646/candy-machine-zaab-ui-ue42.vercel.app_.png)
-Desktop preview, preview live [here](https://candy-machine-zaab-ui.vercel.app/)
+Desktop preview, preview live [here](https://minting-site-ui.vercel.app/)
 
 
 ## Deploy instantly to Vercel
